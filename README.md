@@ -45,6 +45,6 @@ Now you have successfully created an EC2 instance using terraform.
   As this was a basic example of creating an ec2 instance using terraform, you can customize the main.tf file to define your desired AWS resources, including instance type, security groups, and other settings. Refer to the [Terraform documentation](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) for details on resource configurations.
 
 ## References
-  [Terraform Official Documentation](https://www.terraform.io/)
-  [AWS](https://aws.amazon.com/)
-  [Youtube](https://www.youtube.com/watch?v=WCOM5odW0VY)
+  [Terraform Official Documentation](https://www.terraform.io/)<br>
+  [AWS](https://aws.amazon.com/)<br>
+  [Youtube](https://www.youtube.com/watch?v=WCOM5odW0VY)<br>
