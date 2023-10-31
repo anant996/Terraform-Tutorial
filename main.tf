@@ -1,11 +1,11 @@
 provider "aws" {
-  region = "ap-south-1"
+  region = "Enter your region"
 }
 
 resource "aws_instance" "ec2_instance" {
-  ami           = "ami-0287a05f0ef0e9d9a"
-  instance_type = "t2.micro"
+  ami           = "Enter AMI ID"
+  instance_type = "Enter instance type"
   tags = {
-    "Name" : "Terraform-Instance"
+    "Name" : "Enter instance name"
   }
 }
