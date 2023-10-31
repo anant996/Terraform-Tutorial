@@ -20,6 +20,7 @@ Before you begin, ensure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/anant996/Terraform-Tutorial.git
+   cd Terraform-Tutorial
 
 2. **Install Terraform:**
    Run the Terraform setup script to install Terraform on your local machine:<br>
